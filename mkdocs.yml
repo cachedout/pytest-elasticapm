@@ -1,0 +1,10 @@
+site_name: pytest-elasticapm
+site_description: Instrument Pytest with Elastic APM
+site_author: Mike Place
+
+theme: readthedocs
+
+repo_url: https://github.com/cachedout/pytest-elasticapm
+
+pages:
+- Home: index.md
